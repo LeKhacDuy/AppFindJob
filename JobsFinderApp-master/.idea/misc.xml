@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/avatar_bg.xml" value="0.1425" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/bg_circle_grey.xml" value="0.1425" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/big_button_stroke.xml" value="0.1425" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/edit_text_input.xml" value="0.2125" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/hor_progress_bg.xml" value="0.1425" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/ic_about.xml" value="0.1" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/ic_arrow_right.xml" value="0.1425" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/ic_feedback.xml" value="0.1425" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/ic_home.xml" value="0.1425" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/ic_logout.xml" value="0.197" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/ic_nearby.xml" value="0.1425" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/ic_picture.xml" value="0.3095" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/ic_profile.xml" value="0.3095" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/ic_rate.xml" value="0.3095" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/ic_setting.xml" value="0.1425" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/ic_settings.xml" value="0.1425" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/icon_search.xml" value="0.2125" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/item_selector.xml" value="0.2125" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/on_boarding_stroke.xml" value="0.2125" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/progress_bg.xml" value="0.2125" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/round_bottom_corner.xml" value="0.2125" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/sign_up_stroke.xml" value="0.2125" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/small_button_stroke.xml" value="0.1425" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/drawable/small_selection_bg.xml" value="0.1425" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/activity_on_boarding.xml" value="0.3509259259259259" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/activity_reset_password.xml" value="0.33" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/activity_sign_up.xml" value="0.3509259259259259" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/activity_splash.xml" value="0.38697916666666665" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.25" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/fragment_account.xml" value="0.33" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/fragment_nearby.xml" value="0.38697916666666665" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/fragment_on_boarding1.xml" value="0.38697916666666665" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/fragment_on_boarding3.xml" value="0.38697916666666665" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/job_dropdown_item.xml" value="0.28055555555555556" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/layout/loading_layout.xml" value="0.33" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/menu/item_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Github HorrorHouse/JobsFinderApp/app/src/main/res/menu/popup_account.xml" value="0.38697916666666665" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/drawable/bg_circle_grey.xml" value="0.2125" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/drawable/btn_on_boarding.xml" value="0.2125" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/drawable/btn_on_boarding_small.xml" value="0.2125" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/drawable/btn_onboarding.xml" value="0.2125" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2125" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/drawable/on_boarding_stroke.xml" value="0.2125" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/layout/activity_on_boarding.xml" value="0.5" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/layout/activity_splash.xml" value="0.37407407407407406" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/layout/fragment_on_boarding1.xml" value="0.33" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/layout/fragment_on_boarding2.xml" value="0.33" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/layout/fragment_on_boarding3.xml" value="0.33" />
+        <entry key="..\:/JobFinderApp/app/src/main/res/layout/fragment_start.xml" value="0.38697916666666665" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/bg_circle_grey.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/big_button_stroke.xml" value="0.154" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/bottom_dialog_bg.xml" value="0.1" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/btn_on_boarding.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/bullet_point.xml" value="0.14666666666666667" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/edit_text_input.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/edit_text_intput.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/enter_left_to_right.xml" value="0.1" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_account.xml" value="0.1" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_applied.xml" value="0.1" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_back.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.1" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_bell.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_categories.xml" value="0.145" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_clock.xml" value="0.145" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_field.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_filter.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_home.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_location.xml" value="0.145" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_logout.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_nearby.xml" value="0.1" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_rate.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/ic_three_dot_vert.xml" value="0.1" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/icon_search.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/item_selector.xml" value="0.1185" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/layout_stroke.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/loading_stroke.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/noti_bg.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/on_boarding_stroke.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/progress_bg.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/round_bottom_corner.xml" value="0.1185" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/sign_up_stroke.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/small_button_stroke.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/small_selection_bg.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/small_sub_selection_bg.xml" value="0.1" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/drawable/small_subselection_bg.xml" value="0.13" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/activity_on_boarding.xml" value="0.2" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/activity_reset_password.xml" value="0.2" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/activity_single_job.xml" value="0.16666666666666666" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.22" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/fragment_account.xml" value="0.16666666666666666" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/fragment_applied.xml" value="0.2" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/fragment_bottom.xml" value="0.1796875" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/fragment_bottom_sheet_dialog.xml" value="0.1" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/fragment_nearby.xml" value="0.2" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/fragment_on_boarding1.xml" value="0.2" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/fragment_on_boarding2.xml" value="0.2" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/fragment_on_boarding3.xml" value="0.2" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/frame_bottom_sheet_dialog.xml" value="0.17864583333333334" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/item_job.xml" value="0.3333333333333333" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/job_dropdown_item.xml" value="0.17864583333333334" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/layout_dialog_feedback.xml" value="0.22" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/layout_dialog_info.xml" value="0.14743589743589744" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/layout_dialog_ratestar.xml" value="0.16666666666666666" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/layout/loading_layout.xml" value="0.22" />
+        <entry key="..\:/JobsFinder/JobsFinderApp/app/src/main/res/menu/item_menu.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/drawable/ic_applied.xml" value="0.168" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/drawable/ic_nearby.xml" value="0.168" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/drawable/ic_three_dot_vert.xml" value="0.168" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/drawable/item_selector.xml" value="0.168" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/drawable/layout_stroke.xml" value="0.168" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/drawable/noti_bg.xml" value="0.168" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/drawable/on_boarding_stroke.xml" value="0.168" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/drawable/progress_bg.xml" value="0.168" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/drawable/round_bottom_corner.xml" value="0.168" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/drawable/sign_up_stroke.xml" value="0.168" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/drawable/small_button_stroke.xml" value="0.168" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/drawable/tumblr_logo.xml" value="0.168" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/layout/activity_main.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/layout/activity_sign_in.xml" value="0.264" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/layout/activity_sign_up.xml" value="0.259375" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/layout/fragment_account.xml" value="0.259375" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/layout/fragment_home.xml" value="0.2223731884057971" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/layout/item_job.xml" value="0.264" />
+        <entry key="..\:/Users/LeKhacDuy/OneDrive/Desktop/GameUnity/JobsFinderApp/app/src/main/res/layout/layout_dialog_info.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
